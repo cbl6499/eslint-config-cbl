@@ -24,7 +24,6 @@ module.exports = {
 } 
 ```
 
-
 ## React Navite adaptions
 
 To use the eslint confing with React Native install `@react-native-community/eslint-config`
