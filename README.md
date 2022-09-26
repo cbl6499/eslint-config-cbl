@@ -74,7 +74,7 @@ For React Native change `jsx` value to `react-native`:
 }
 ```
 
-## Used By^
+## Used By
 
 This project is used by the following companies:
 
